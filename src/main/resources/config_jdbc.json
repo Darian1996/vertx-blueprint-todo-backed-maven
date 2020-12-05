@@ -1,0 +1,10 @@
+{
+  "service.type": "jdbc",
+  "url": "jdbc:mysql://www.darian.top:3306/vertx_blueprint?characterEncoding=UTF-8&useSSL=false",
+  "driver_class": "com.mysql.cj.jdbc.Driver",
+  "user": "root",
+  "password": "1234567890",
+  "initial_pool_size": 200,
+  "min_pool_size": 200,
+  "max_pool_size": 200
+}
